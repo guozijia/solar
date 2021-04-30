@@ -15,7 +15,7 @@ npm run dev
 ```
 
 ## 介绍
-改项目是基于[vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)进行开发
+该项目是基于[vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)进行开发
 
 
 
